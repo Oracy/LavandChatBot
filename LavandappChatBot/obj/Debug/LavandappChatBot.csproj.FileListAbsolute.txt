@@ -1,0 +1,44 @@
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\Bot Application.dll.config
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\Bot Application.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\Bot Application.pdb
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\Autofac.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\Chronic.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\Newtonsoft.Json.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\System.Net.Http.Formatting.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\System.Web.Http.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\System.Web.Http.WebHost.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\Autofac.xml
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\Newtonsoft.Json.xml
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\System.Net.Http.Formatting.xml
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\System.Web.Http.xml
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\System.Web.Http.WebHost.xml
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\obj\Debug\LavandappChatBot.csprojResolveAssemblyReference.cache
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\obj\Debug\LavandappChatBot.csproj.CoreCompileInputs.cache
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\obj\Debug\Bot Application.dll
+C:\Users\orama\source\repos\LavandappChatBot\LavandappChatBot\obj\Debug\Bot Application.pdb
